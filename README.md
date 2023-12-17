@@ -10,7 +10,14 @@
 
    ```bash
    git clone https://github.com/mohdzain98/enview.git
-   cd alerts-dashboard
+   cd enview
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the flask application
+   ```bash
+   python app.py
+4. Open the web browser and go to <a href="http://localhost:5000/">http://localhost:5000/</a> to view the dashboard
    
 Or in github Desktop clone the repository, open in VS code and run app.py
    
