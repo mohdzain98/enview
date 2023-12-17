@@ -5,3 +5,9 @@
   <li>You can search for alerts using free text, vehicle number, and date range.</li>
   <li>Alerts are displayed in a box with details such as alert type, driver information, and the option to mark an alert as a false alarm</li>
 </ul>
+### Text Search <br>
+Enter the text in Search box and press enter or Search button and it will display the result. <br>
+### Enter Vechile Number <br>
+Enter the vechile number and it will display the results.<br>
+### Enter Date range <br>
+It will display the data between the date ranges.
