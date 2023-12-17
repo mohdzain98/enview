@@ -1,8 +1,8 @@
 import os
 
-from flask import Flask, render_template, request, redirect, url_for,flash
+from flask import Flask, render_template, request
 app = Flask(__name__)
-alerts = [
+data = [
   {
     "id": "6049dbd2-45bc-4e34-9ea2-c82ced0279f1",
     "alert_type": "Unsafe driving",
@@ -37,7 +37,7 @@ def getTime(time):
     return formatted_string
 
 @app.route("/alerts", methods=['POST','GET'])
-def searchrecord():
+def alerts():
     if request.method == "POST":
         
         name = request.form.get("name")
@@ -47,7 +47,7 @@ def searchrecord():
         filtered_alerts = []
         time =[]
 
-    for alert in alerts:
+    for alert in data:
         if (
             (name.lower() in alert['alert_type'].lower() or
              name.lower() in alert['driver_friendly_name'].lower() or
