@@ -9,7 +9,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/mohdzain98/enview.git
    cd alerts-dashboard
    
 Or in github Desktop clone the repository, open in VS code and run app.py
