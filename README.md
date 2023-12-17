@@ -17,7 +17,7 @@
 3. Run the flask application
    ```bash
    python app.py
-4. Open the web browser and go to <a href="http://localhost:5000/">http://localhost:5000/</a> to view the dashboard
+4. Open the web browser and go to <a href="http://127.0.0.1:5000/" target="_BLANK">http://localhost:5000/</a> to view the dashboard
    
 Or in github Desktop clone the repository, open in VS code and run app.py
    
