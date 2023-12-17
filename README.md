@@ -11,8 +11,7 @@
    ```bash
    git clone https://github.com/your-username/alerts-dashboard.git
    cd alerts-dashboard
-2. Run the flask applcation
-   python app.py
+   Or in github Desktop clone the repository, open in VS code and run app.py
    
 ## Usage
 <div>
