@@ -1,0 +1,20 @@
+.box{
+    background:#fdfafa;
+    margin:0 0 30px;
+    border:solid 1px #e6e6e6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.down{
+  font-size: 12px;
+}
+
+.icon{
+  margin-left: 6px;
+  font-size: 9px;
+  font-weight: lighter;
+}
+
