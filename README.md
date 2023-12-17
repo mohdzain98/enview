@@ -3,6 +3,17 @@
 
 - Python 3.x installed
 - Flask library installed (you can install it using `pip install Flask`)
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/alerts-dashboard.git
+   cd alerts-dashboard
+2. Run the flask applcation
+   python app.py
+   
 ## Usage
 <div>
   <ul>
