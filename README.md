@@ -10,7 +10,7 @@
 
    ```bash
    git clone https://github.com/your-username/alerts-dashboard.git
-   cd alerts-dashboard
+   cd alerts-dashboard```
    Or in github Desktop clone the repository, open in VS code and run app.py
    
 ## Usage
