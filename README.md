@@ -13,7 +13,7 @@
    cd enview
 2. Install Dependencies
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
 3. Run the flask application
    ```bash
    python app.py
